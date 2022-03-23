@@ -44,7 +44,7 @@ filename	text1	text2	text3
 after `python excel2ppt.py`
 
 ```
-(base) wjf@mbp excel2ppt % python excel2ppt.py
+$ python excel2ppt.py
 openning data.xlsx ...
 found var: filename
 found var: text1
